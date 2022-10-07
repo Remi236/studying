@@ -1,6 +1,5 @@
 # Studing
 Tracking what I have learned 
-#################################################
 ## Resources: 
     1.  [Notion](https://www.notion.so/Aevuive-0c334fd087d44eea8e5bcea5be4513e1)
     2.  [Drive](https://drive.google.com/drive/folders/1dSB7ROrhVqq0Gb52KySsOPZII9L3LX0d)
@@ -16,7 +15,6 @@ Tracking what I have learned
     9.  [geeksforgeeks](https://www.geeksforgeeks.org/)
     10. [Python doc](https://docs.python.org/3/tutorial/)
     11. [Microsoft](https://learn.microsoft.com/en-us/docs/)
-#################################################
 ## Subjects:
    1.  Introduction to Programming
    2.  Programming Techniques
