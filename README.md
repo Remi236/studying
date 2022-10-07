@@ -5,8 +5,8 @@ Tracking what I have learned
  2.  [Drive](https://drive.google.com/drive/folders/1dSB7ROrhVqq0Gb52KySsOPZII9L3LX0d)
  3.  [Canvas](https://www.canva.com/)
  4.  Youtube:<br>	
-   4.1 [F8 Official] (https://www.youtube.com/c/F8VNOfficial)<br>
-   4.2 [Easy Frontend] (https://www.youtube.com/c/EasyFrontend)<br>
+   4.1 [F8 Official](https://www.youtube.com/c/F8VNOfficial)<br>
+   4.2 [Easy Frontend](https://www.youtube.com/c/EasyFrontend)<br>
    4.3 [NetworkChuck](https://www.youtube.com/c/NetworkChuck)<br>
  5.  [Easy Frontend](https://www.ezfrontend.com/)
  6.  [w3schools](https://www.w3schools.com/)
