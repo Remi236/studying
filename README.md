@@ -39,3 +39,7 @@ Tracking what I have learned
    21. Java Programming
    22. Advance Network
    23. Data Mining
+   24. Hide Info And Secret Sharing
+   25. Software Design Analysis
+   26. Advance Web
+   27. Marchine Learning
