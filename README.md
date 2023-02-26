@@ -16,30 +16,30 @@ Tracking what I have learned
  10. [Python doc](https://docs.python.org/3/tutorial/)
  11. [Microsoft](https://learn.microsoft.com/en-us/docs/)
 ## Subjects:
-   1.  Introduction to Programming
-   2.  Programming Techniques
-   3.  Object Oriented Programming
-   4.  Data Structure and Algorithms
-   5.  Database
-   6.  Operating System
-   7.  Simplified Instructional Computer
-   8.  NetWork
-   9.  Windows Programming
-   10. Database Managerment
-   11. Managerment App Programing
-   12. AI Realistic
-   13. Web Mining
-   14. Software Testing
-   15. Report
-   16. English
-   17. Software Technology
-   18. Probability and Statistics
-   19. Graph Theory
-   20. Database Managerment System
-   21. Java Programming
-   22. Advance Network
-   23. Data Mining
-   24. Hide Info And Secret Sharing
-   25. Software Design Analysis
-   26. Advance Web
-   27. Marchine Learning
+ 1.	 Introduction to Programming
+ 2.	 Programming Techniques
+ 3.	 Object-Oriented Programming
+ 4.	 Data Structures and Algorithms
+ 5.	 Databases
+ 6.	 Operating Systems
+ 10. Simplified Instructional Computer
+ 11. Networks
+ 12. Windows Programming
+ 13. Database Management
+ 14. Management App Programming
+ 15. AI Realistic
+ 16. Web Mining
+ 17. Software Testing
+ 18. Report Writing
+ 19. English
+ 20. Software Technology
+ 21. Probability and Statistics
+ 22. Graph Theory
+ 23. Database Management System
+ 24. Java Programming
+ 25. Advanced Networking
+ 26. Data Mining
+ 27. Information Hiding and Secret Sharing
+ 28. Software Design Analysis
+ 29. Advanced Web Development
+ 30. Machine Learning
