@@ -43,3 +43,6 @@ Tracking what I have learned
  28. Software Design Analysis
  29. Advanced Web Development
  30. Machine Learning
+ 31. Cuda - GPU
+ 32. Data Science
+ 33. UX/UI
